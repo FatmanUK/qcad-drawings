@@ -2429,7 +2429,7 @@ AcDbMText
   1
 \fOCR A Std|b0|i0|c0|p0;\H30;Side
   7
-textstyle2
+textstyle0
  50
 0.0
  73
@@ -2471,7 +2471,7 @@ AcDbMText
   1
 \fOCR A Std|b0|i0|c0|p0;\H30;Front
   7
-textstyle1
+textstyle2
  50
 0.0
  73
@@ -2513,7 +2513,7 @@ AcDbMText
   1
 \fOCR A Std|b0|i0|c0|p0;\H30;Top
   7
-textstyle0
+textstyle1
  50
 0.0
  73
@@ -3891,7 +3891,7 @@ AcDbXrecord
 280
 1
  40
-1770.8359935019743716
+2119.0142504802679468
   0
 XRECORD
   5
@@ -3903,7 +3903,7 @@ AcDbXrecord
 280
 1
  40
-3485.0052352118855197
+4170.2200449451675013
   0
 ENDSEC
   0
