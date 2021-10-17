@@ -1,0 +1,23 @@
+no xt    ys   xs/yt  name
+1x 648     -  450    outdoors rubber mat (top) - slightly bigger to overlap?
+1x 648   25 450    tread slab
+2x   25 100 270    outer strut - 2x 270mm of plank - 1 plank
+1x 598 100   25    front face  - 1x 598mm of plank - 1 plank
+1x 548 100   25    back face  - 1x 548mm of plank - 
+1x   25 100 245    inner strut - 1x 245mm of plank
+
+100x25 - pallet planks (1000mm long)
+pallet planks no good for top - holes - wood filler? could make 700mm wide slab with 7 planks - find a better way?
+
+1: 598 + 270 (132)
+2: 548 + 270 (182)
+3: 245 (755)
+
+continuing with slab:
+3: 245 + 450 (305)
+4: 450 + 450 (100)
+5: 450 + 450 (100)
+6: 450 + 450 (100)
+
+paint - outer protective? yacht paint?
+
